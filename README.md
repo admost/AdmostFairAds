@@ -1,7 +1,7 @@
 # Admost Fair Ads
 
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/AdmostFairAds.svg)](https://img.shields.io/cocoapods/v/AdmostFairAds.svg)
-[![Platform](https://img.shields.io/cocoapods/p/AdmostFairAds.svg?style=flat)](https://alamofire.github.io/AdmostFairAds)
+[![Platform](https://img.shields.io/cocoapods/p/AdmostFairAds.svg?style=flat)](https://github.com/admost/AdmostFairAds)
 
 Admost Fair Ads is ad SDK to show ads.
 
@@ -36,7 +36,7 @@ You can send email. [Admost](mailto:amr@admost.com?subject=Admost%20Fair%20Ads%2
 
 ## Credits
 
-Alamofire is owned and maintained by the [Admost Mediation Limited](http://admost.com).
+Admost Fair Ads is owned and maintained by the [Admost Mediation Limited](http://admost.com).
 
 ## License
 
