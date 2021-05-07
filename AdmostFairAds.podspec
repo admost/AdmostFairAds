@@ -14,15 +14,16 @@ Admost Fair Ads allows to monetize your application.
 														LICENSE
 														}
   s.author           = { 'Admost Mediation Limited' => 'amr@admost.com' }
-  s.source           = { :git => 'https://github.com/mhmtkrgz/AdmostFairAds.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/admost/AdmostFairAds.git', :tag => s.version.to_s }
 
   s.platform 			= :ios 
   s.ios.deployment_target = '9.0'
+  s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64 x86_64' }
 
   s.documentation_url = 'https://github.com/admost/AdmostFairAds'
   s.swift_versions = ['5.1', '5.2', '5.3']
   s.vendored_frameworks = 'AdmostFairAds/AdmostFairAds.xcframework'
   s.resources = ['AdmostFairAds/AdmostFairAdsResources.bundle']
-  s.frameworks = 'UIKit', 'CoreTelephony', 'SystemConfiguration', 'CommonCrypto', 'AdSupport', 'WebKit', 'CFNetwork', 'SafariServices'
+  s.frameworks = 'UIKit', 'CoreTelephony', 'SystemConfiguration', 'AdSupport', 'WebKit', 'CFNetwork', 'SafariServices'
  
 end
