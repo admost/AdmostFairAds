@@ -259,6 +259,7 @@ typedef SWIFT_ENUM(NSInteger, AFAErrorCodes, open) {
   AFAErrorCodesNoTemplateFound = 11,
   AFAErrorCodesNoHTMLContent = 12,
   AFAErrorCodesAdIsAlreadyShown = 13,
+  AFAErrorCodesAppIdNotValid = 14,
 };
 
 @protocol AFAInterstitialDelegate;
@@ -600,6 +601,7 @@ typedef SWIFT_ENUM(NSInteger, AFAErrorCodes, open) {
   AFAErrorCodesNoTemplateFound = 11,
   AFAErrorCodesNoHTMLContent = 12,
   AFAErrorCodesAdIsAlreadyShown = 13,
+  AFAErrorCodesAppIdNotValid = 14,
 };
 
 @protocol AFAInterstitialDelegate;
@@ -941,6 +943,7 @@ typedef SWIFT_ENUM(NSInteger, AFAErrorCodes, open) {
   AFAErrorCodesNoTemplateFound = 11,
   AFAErrorCodesNoHTMLContent = 12,
   AFAErrorCodesAdIsAlreadyShown = 13,
+  AFAErrorCodesAppIdNotValid = 14,
 };
 
 @protocol AFAInterstitialDelegate;
