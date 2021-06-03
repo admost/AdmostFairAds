@@ -13,6 +13,9 @@ import UIKit
 import WebKit
 extension UIDevice {
   public static let modelName: Swift.String
+  public static var isPortrait: Swift.Bool {
+    get
+  }
 }
 @objc public enum AFAErrorCodes : Swift.Int {
   case unknownError = -1
