@@ -150,6 +150,12 @@
     broadcastEvent(EVENTS.VIDEOMUTEDCHANGE, isVideoMuted);
   };
 
+  bridge.setIsSkipTapped = function(_isSkipTapped) {
+   isSkipTapped = _isSkipTapped;
+   broadcastEvent(EVENTS.INFO, 'Set skip tapped');
+   broadcastEvent(EVENTS.SKIPTAPPEDCHANGE, isSkipTapped);
+ };
+
   bridge.setOrientationDegree = function(_orientationDegree) {
      orientationDegree = _orientationDegree;
      broadcastEvent(EVENTS.INFO, 'Set orientation degree to ' + stringify(orientationDegree));
@@ -211,6 +217,11 @@
     broadcastEvent(EVENTS.VIDEOMUTEDCHANGE, isVideoMuted);
   };
 
+  bridge.notifySkipTappedChangeEvent = function() {
+   broadcastEvent(EVENTS.INFO, 'Set skip tapped');
+   broadcastEvent(EVENTS.SKIPTAPPEDCHANGE, isSkipTapped);
+ };
+
   bridge.notifyOrientationChangeEvent = function() {
      broadcastEvent(EVENTS.INFO, 'Set orientation degree to ' + stringify(orientationDegree));
      broadcastEvent(EVENTS.ORIENTATIONCHANGE, orientationDegree);
@@ -236,6 +247,7 @@
      STATECHANGE: 'stateChange',
      VIEWABLECHANGE: 'viewableChange',
      VIDEOMUTEDCHANGE: 'videoMutedChange',
+     SKIPTAPPEDCHANGE: 'skipTappedChange',
      ORIENTATIONCHANGE: 'orientationChange',
      SIZECHANGE: 'sizeChange'
    };
@@ -300,6 +312,8 @@
    var isViewable = false;
 
    var isVideoMuted = false;
+
+   var isSkipTapped = false;
 
    var orientationDegree = 0;
 
@@ -422,6 +436,12 @@
       broadcastEvent(EVENTS.INFO, 'Set isVideoMuted to ' + stringify(val));
       broadcastEvent(EVENTS.VIDEOMUTEDCHANGE, isVideoMuted);
     },
+
+    skipTapped: function(val) {
+     isSkipTapped = val;
+     broadcastEvent(EVENTS.INFO, 'Set skip tapped');
+     broadcastEvent(EVENTS.SKIPTAPPEDCHANGE, isSkipTapped);
+   },
 
     orientationDegree: function(val) {
      orientationDegree = val;
@@ -591,6 +611,10 @@
    mraid.isVideoMuted = function() {
     return isVideoMuted;
   };
+
+  mraid.isSkipTapped = function() {
+   return isSkipTapped;
+ };
 
   mraid.orientationDegree = function() {
      return orientationDegree;

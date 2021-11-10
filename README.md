@@ -27,7 +27,7 @@ Admost Fair Ads is ad SDK to show ads.
 [CocoaPods](https://cocoapods.org) is a dependency manager. For usage and installation instructions, visit their website. To integrate AdmostFairAds using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'AdmostFairAds', '~> 0.2'
+pod 'AdmostFairAds', '~> 1.0'
 ```
 
 ## FAQ

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AdmostFairAds'
-  s.version          = '0.4.0'
+  s.version          = '1.0.0'
   s.summary          = 'Admost Fair Ads mobile advertisement SDK'
 
   s.description      = <<-DESC
@@ -21,7 +21,7 @@ Admost Fair Ads allows to monetize your application.
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7 arm64 x86_64' }
 
   s.documentation_url = 'https://github.com/admost/AdmostFairAds'
-  s.swift_versions = ['5.1', '5.2', '5.3']
+  s.swift_versions = ['5.1', '5.2', '5.3', '5.4', '5.5']
   s.vendored_frameworks = 'AdmostFairAds/AdmostFairAds.xcframework'
   s.resources = ['AdmostFairAds/AdmostFairAdsResources.bundle']
   s.frameworks = 'UIKit', 'CoreTelephony', 'SystemConfiguration', 'AdSupport', 'WebKit', 'CFNetwork', 'SafariServices'
