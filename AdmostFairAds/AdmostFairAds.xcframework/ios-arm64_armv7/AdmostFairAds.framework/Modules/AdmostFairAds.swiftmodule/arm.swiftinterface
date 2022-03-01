@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
-// swift-module-flags: -target armv7-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name AdmostFairAds
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target armv7-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name AdmostFairAds
 import AdSupport
 @_exported import AdmostFairAds
 import AppTrackingTransparency
@@ -13,7 +13,7 @@ import UIKit
 import WebKit
 import _Concurrency
 extension UIKit.UIDevice {
-  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
+  @_Concurrency.MainActor(unsafe) public static var modelName: Swift.String
   @_Concurrency.MainActor(unsafe) public static var isPortrait: Swift.Bool {
     get
   }
@@ -52,11 +52,12 @@ extension UIKit.UIDevice {
 }
 @_inheritsConvenienceInitializers @objc final public class AFABidLoader : ObjectiveC.NSObject {
   @objc public static func loadBid(_ adUnit: Swift.String, bidType: AdmostFairAds.AFABidType, completion: @escaping (AdmostFairAds.AFABidResponse?, Foundation.NSError?) -> Swift.Void)
+  @objc public static func sendBidLost(_ bidResponse: AdmostFairAds.AFABidResponse, clearingPrice: Swift.Double)
   @objc override dynamic public init()
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc final public class AdmostFairAds : ObjectiveC.NSObject {
-  @objc public static let sdkVersion: Swift.String
+  @objc public static var sdkVersion: Swift.String
   @objc public static var isInitialized: Swift.Bool {
     @objc get
   }
@@ -113,9 +114,3 @@ extension UIKit.UIDevice {
   @objc final public func showAd(from viewController: UIKit.UIViewController)
   @objc deinit
 }
-extension AdmostFairAds.AFAErrorCodes : Swift.Equatable {}
-extension AdmostFairAds.AFAErrorCodes : Swift.Hashable {}
-extension AdmostFairAds.AFAErrorCodes : Swift.RawRepresentable {}
-extension AdmostFairAds.AFABidType : Swift.Equatable {}
-extension AdmostFairAds.AFABidType : Swift.Hashable {}
-extension AdmostFairAds.AFABidType : Swift.RawRepresentable {}
