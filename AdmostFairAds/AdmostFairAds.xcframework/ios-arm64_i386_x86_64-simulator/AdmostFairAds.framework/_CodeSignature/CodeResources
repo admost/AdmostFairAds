@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdmostFairAds-Swift.h</key>
 		<data>
-		zYvdPW6UgTGcmJ45r0TLckRmr2Q=
+		QaEhIzmpm4661UD/v0DeuWyRgwc=
 		</data>
 		<key>Headers/AdmostFairAds.h</key>
 		<data>
@@ -14,79 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		dxUpq7gdRzQZX20S1wcD0KbUMHI=
+		4dp2SLMjMrb+3/BK68B9Nxol4cI=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		n9Ag0elSgEZtwEXv0Ej5zL4ZpG4=
+		py2w/f2uUQjshW4jaEoRDdA15fM=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LE2607+IdXBSakcaA29CEusX3Cg=
+		Mg29OeV9OtmDacZGxy42sMqGNyc=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vw4cfxgpsIY0RXkUPTa9dNxzLqM=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		n9Ag0elSgEZtwEXv0Ej5zL4ZpG4=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		LE2607+IdXBSakcaA29CEusX3Cg=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		vw4cfxgpsIY0RXkUPTa9dNxzLqM=
+		Zyf5R9DUiHuukuoP+UFkjqfobOM=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Z3uaNQX0Kmio+06aAqzUuY8TVFU=
+		TGL+2oyCbCC4dSjyEs+3rxsUZIk=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		s7zyjCxw0wUcm3MdFsi4dNeRMVA=
+		YcpqxdMYHSNUM/qxc/n96VhehyI=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z8ufoWFEoxDa1CeRnwYTVdD78xc=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftdoc</key>
-		<data>
-		Z3uaNQX0Kmio+06aAqzUuY8TVFU=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftinterface</key>
-		<data>
-		s7zyjCxw0wUcm3MdFsi4dNeRMVA=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftmodule</key>
-		<data>
-		z8ufoWFEoxDa1CeRnwYTVdD78xc=
+		omWqRemUnUNAIXq3+hyCMoomj5c=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		M7lFEYtu3NR96OmNBOeGm/5+dHM=
+		C81/nquORButalSpu46sowUEqnI=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		/Axwbs2j+RlopqzB+89apb2VNNc=
+		LN5rwUp066Re//BF5EnxqZrcIUo=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		umBcR6WQlAZF5mezJoThwYZ/oak=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		M7lFEYtu3NR96OmNBOeGm/5+dHM=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		/Axwbs2j+RlopqzB+89apb2VNNc=
-		</data>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		umBcR6WQlAZF5mezJoThwYZ/oak=
+		mzsNeywjyw257j/Qsdhli/eg8yc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zYvdPW6UgTGcmJ45r0TLckRmr2Q=
+			QaEhIzmpm4661UD/v0DeuWyRgwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			G2rM9b+3jqgCFYb3R8zdII7eKNxOc8ZhGZLh2orICbo=
+			2g6gmKJYQkBNN5JnNIyopxUqZTNUnXIvpZdgKYgi1D8=
 			</data>
 		</dict>
 		<key>Headers/AdmostFairAds.h</key>
@@ -121,198 +85,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n9Ag0elSgEZtwEXv0Ej5zL4ZpG4=
+			py2w/f2uUQjshW4jaEoRDdA15fM=
 			</data>
 			<key>hash2</key>
 			<data>
-			WkDuG5ivuxXG7/yv+wshHsz3udOAL2ZVQYQyl7HFMrw=
+			9MKpSmbcff2ud8TQtVSNFl7Z/YoNoTSoWazm1Q2L2tM=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LE2607+IdXBSakcaA29CEusX3Cg=
+			Mg29OeV9OtmDacZGxy42sMqGNyc=
 			</data>
 			<key>hash2</key>
 			<data>
-			3/vK3hWK162n4TKc8b8b+pJK7tIBs5kKWYoA2vU9+7c=
+			U4oiHcv+Br/DOZ85FbXL/HiYOMA+zoQ0XE1b/0dDr2s=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vw4cfxgpsIY0RXkUPTa9dNxzLqM=
+			Zyf5R9DUiHuukuoP+UFkjqfobOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			phAKCTcARW5tCZCRM0mIX5wcve+WeDNn7OjIsbKMuPU=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			n9Ag0elSgEZtwEXv0Ej5zL4ZpG4=
-			</data>
-			<key>hash2</key>
-			<data>
-			WkDuG5ivuxXG7/yv+wshHsz3udOAL2ZVQYQyl7HFMrw=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LE2607+IdXBSakcaA29CEusX3Cg=
-			</data>
-			<key>hash2</key>
-			<data>
-			3/vK3hWK162n4TKc8b8b+pJK7tIBs5kKWYoA2vU9+7c=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vw4cfxgpsIY0RXkUPTa9dNxzLqM=
-			</data>
-			<key>hash2</key>
-			<data>
-			phAKCTcARW5tCZCRM0mIX5wcve+WeDNn7OjIsbKMuPU=
+			C0eCzKbc+62R8T+6C+Re7bOEyNKqnmi/Ubb8gJfxauo=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Z3uaNQX0Kmio+06aAqzUuY8TVFU=
+			TGL+2oyCbCC4dSjyEs+3rxsUZIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			m2ZszCzzGL01y5k67ioqiMtO25UsuQv+fFhFU4zznr4=
+			Mtb92JxFzlKw3IYRjMQUwuhYB+HBZbhjIUr9/WdSeMQ=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			s7zyjCxw0wUcm3MdFsi4dNeRMVA=
+			YcpqxdMYHSNUM/qxc/n96VhehyI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ee2BoPICdrC2gENPreqpeDgJSIQST2TeopmltDz+fQU=
+			IOymidNYo0GcW/8Ibnb3jalnHpRkr9/aj+RFn8W6elo=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z8ufoWFEoxDa1CeRnwYTVdD78xc=
+			omWqRemUnUNAIXq3+hyCMoomj5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8a79CDpXL0hhwloRgH91fEykowNJwEGPFThh5oO3Ts=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z3uaNQX0Kmio+06aAqzUuY8TVFU=
-			</data>
-			<key>hash2</key>
-			<data>
-			m2ZszCzzGL01y5k67ioqiMtO25UsuQv+fFhFU4zznr4=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			s7zyjCxw0wUcm3MdFsi4dNeRMVA=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ee2BoPICdrC2gENPreqpeDgJSIQST2TeopmltDz+fQU=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			z8ufoWFEoxDa1CeRnwYTVdD78xc=
-			</data>
-			<key>hash2</key>
-			<data>
-			H8a79CDpXL0hhwloRgH91fEykowNJwEGPFThh5oO3Ts=
+			Z0+kkQgP2MCM1YmvvVNToORLfprmqLByJlpEF6rEiuc=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M7lFEYtu3NR96OmNBOeGm/5+dHM=
+			C81/nquORButalSpu46sowUEqnI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0YNc/ILubT/96KR9FF3zgW1gNdHVV6gLv60tVGhV5C4=
+			43WGp+sqO0sSAXHbKvwMCErFaWsdelV4vd+LAVyEw4s=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/Axwbs2j+RlopqzB+89apb2VNNc=
+			LN5rwUp066Re//BF5EnxqZrcIUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			kX9VPb7tw5wg6G3Jqc9SyHVDIvyXbnG4T40dYgCm7Ug=
+			uDlar/5v6sJy+uFedlPcEfEIYIUqNohBwW0bXe6Ou/o=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			umBcR6WQlAZF5mezJoThwYZ/oak=
+			mzsNeywjyw257j/Qsdhli/eg8yc=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+Im2wHzNAaFQTxd5MZGZUk7z0aTWdBYECguvYbe95E=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M7lFEYtu3NR96OmNBOeGm/5+dHM=
-			</data>
-			<key>hash2</key>
-			<data>
-			0YNc/ILubT/96KR9FF3zgW1gNdHVV6gLv60tVGhV5C4=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/Axwbs2j+RlopqzB+89apb2VNNc=
-			</data>
-			<key>hash2</key>
-			<data>
-			kX9VPb7tw5wg6G3Jqc9SyHVDIvyXbnG4T40dYgCm7Ug=
-			</data>
-		</dict>
-		<key>Modules/AdmostFairAds.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			umBcR6WQlAZF5mezJoThwYZ/oak=
-			</data>
-			<key>hash2</key>
-			<data>
-			l+Im2wHzNAaFQTxd5MZGZUk7z0aTWdBYECguvYbe95E=
+			pA67EvrddkZxz+RuD0YYi4BQfpT7cL/5VKi51rzXR68=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
