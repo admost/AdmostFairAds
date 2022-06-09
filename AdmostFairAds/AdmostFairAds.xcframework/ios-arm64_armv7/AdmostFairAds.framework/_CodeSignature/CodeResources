@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		u91lVWowliBYhmBT1gd2cdzRY4M=
+		a/2sf5yad2NhYpHqBnj4haJhCIA=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Q9gdnVNko6HrTQustQe21mdpcf4=
+		uh7C6KzFsDQuDMDb2G7eGxS0c4w=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		ufXNGUR3JB3I0vhBKYBRAtOUg2E=
+		KuIrBxnt68ObPFAZdr5M6LUk9vI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,11 +95,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q9gdnVNko6HrTQustQe21mdpcf4=
+			uh7C6KzFsDQuDMDb2G7eGxS0c4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			vOYSkOHq14JQ0SdoKoAtN61o8/+Z39Pa/fhUVhc4KOA=
+			f3Ykw3bznqeqwGIy0MbZjQM5i1cV3Gpp33npdWnt4hg=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -128,11 +128,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ufXNGUR3JB3I0vhBKYBRAtOUg2E=
+			KuIrBxnt68ObPFAZdr5M6LUk9vI=
 			</data>
 			<key>hash2</key>
 			<data>
-			hR0/OvMbE8xxRMARg5V7Fbiy73j/cCzdESqLXffg/GY=
+			slS4tyFocOfTTZye0eXVc4x/L9z4pQoEKvDKF1yDjik=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
