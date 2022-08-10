@@ -17,8 +17,8 @@ Admost Fair Ads is ad SDK to show ads.
 ## Requirements
 
 - iOS 9.0+
-- Xcode 12.5+
-- Swift 5.2+
+- Xcode 13.4.1+
+- Swift 5.3+
 
 ## Installation
 
