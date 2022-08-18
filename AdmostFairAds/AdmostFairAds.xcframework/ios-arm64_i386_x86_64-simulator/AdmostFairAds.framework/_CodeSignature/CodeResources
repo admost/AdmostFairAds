@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdmostFairAds-Swift.h</key>
 		<data>
-		QaEhIzmpm4661UD/v0DeuWyRgwc=
+		3SHGSSYXFQOUcT1Bc9GSw9tw0qA=
 		</data>
 		<key>Headers/AdmostFairAds.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/29DcKi+UOc30AuxO+WqKnF/EIY=
+		k9zsijgfHY8dJmBRpZ0w4vd3lTs=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Mg29OeV9OtmDacZGxy42sMqGNyc=
+		FBt+uiFVin/5xK2szRtpbT7cCog=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Bp52kGkQ8Phgekfc/vWWuREZLJQ=
+		HiVGw8TnFwgNM2P0sweMtnIXrzc=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YcpqxdMYHSNUM/qxc/n96VhehyI=
+		vfBlJ+GPccVZjOmJCioEzTrr8EE=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7lrobPrcFnZaoqOgRf7rVyserzQ=
+		jI/0pp2JnFd191jYo0dfJMn6RDU=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LN5rwUp066Re//BF5EnxqZrcIUo=
+		2vH9lZbdDy5GU/N9It2aSc1LLKk=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tqxDCtb4JaTwBPZm759Y3B9Fc7o=
+		snsYMZH+PnR0onI/aLLdKCrSKNA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QaEhIzmpm4661UD/v0DeuWyRgwc=
+			3SHGSSYXFQOUcT1Bc9GSw9tw0qA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2g6gmKJYQkBNN5JnNIyopxUqZTNUnXIvpZdgKYgi1D8=
+			+nCjrXCMIbSM3nvJyXF3DmjDvbkcbNwPm56Ov6o5wus=
 			</data>
 		</dict>
 		<key>Headers/AdmostFairAds.h</key>
@@ -96,22 +96,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Mg29OeV9OtmDacZGxy42sMqGNyc=
+			FBt+uiFVin/5xK2szRtpbT7cCog=
 			</data>
 			<key>hash2</key>
 			<data>
-			U4oiHcv+Br/DOZ85FbXL/HiYOMA+zoQ0XE1b/0dDr2s=
+			bduluPwsr+7P1ND4RLNGTpcXNAGQP5pA333zDgS05/4=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bp52kGkQ8Phgekfc/vWWuREZLJQ=
+			HiVGw8TnFwgNM2P0sweMtnIXrzc=
 			</data>
 			<key>hash2</key>
 			<data>
-			s3NN0ybl0xZJM3FPBUxkGH6b1jy7Ra/ua1I9JFtImtk=
+			x5XtEsdr6TI/14uwIhPgZY7zQN/ET8jveSF2kL/5X34=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -129,22 +129,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YcpqxdMYHSNUM/qxc/n96VhehyI=
+			vfBlJ+GPccVZjOmJCioEzTrr8EE=
 			</data>
 			<key>hash2</key>
 			<data>
-			IOymidNYo0GcW/8Ibnb3jalnHpRkr9/aj+RFn8W6elo=
+			nV1oBYfJsMtb9ojFqwuGTJx9TVBQlLbXkJPoM1YIBJ0=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7lrobPrcFnZaoqOgRf7rVyserzQ=
+			jI/0pp2JnFd191jYo0dfJMn6RDU=
 			</data>
 			<key>hash2</key>
 			<data>
-			fM+F/Ere2vEU2uLV1iptGxegFp7orBKV6C75kacn4Fc=
+			ZxzrhsT0NGo7rjdEzA7KQ2yHe1AQz1Zb+Hu9R2OAMws=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -162,22 +162,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LN5rwUp066Re//BF5EnxqZrcIUo=
+			2vH9lZbdDy5GU/N9It2aSc1LLKk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uDlar/5v6sJy+uFedlPcEfEIYIUqNohBwW0bXe6Ou/o=
+			51D4CAAT5eELSNZMcgleTOuQ59RWnUkZ6fTFUfbzKsk=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tqxDCtb4JaTwBPZm759Y3B9Fc7o=
+			snsYMZH+PnR0onI/aLLdKCrSKNA=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZbMl+ZNRnteBAtTHAABGdJ66SG6+eDqPFeMnoNZI3ck=
+			SG5BnAPKFgi3Uk5XHB2k/JQDxyEXRvVeFlt9WogHU3k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

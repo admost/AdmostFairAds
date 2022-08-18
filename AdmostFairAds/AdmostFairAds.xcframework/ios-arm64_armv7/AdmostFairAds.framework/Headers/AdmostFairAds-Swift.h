@@ -215,6 +215,24 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class NSString;
+@class NSError;
+
+SWIFT_CLASS("_TtC13AdmostFairAds3AFA")
+@interface AFA : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull sdkVersion;)
++ (NSString * _Nonnull)sdkVersion SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) BOOL isInitialized;)
++ (BOOL)isInitialized SWIFT_WARN_UNUSED_RESULT;
++ (void)startWithAppId:(NSString * _Nonnull)appId completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
++ (void)setUserId:(NSString * _Nonnull)userId;
++ (void)setUserConsent:(BOOL)userConsent;
++ (void)setUserChild:(BOOL)isUserChild;
++ (void)setSubjectToGDPR:(BOOL)subjectToGDPR;
++ (void)setSubjectToCCPA:(BOOL)subjectToCCPA;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 SWIFT_CLASS("_TtC13AdmostFairAds5AFAAd")
 @interface AFAAd : NSObject
@@ -224,10 +242,8 @@ SWIFT_CLASS("_TtC13AdmostFairAds5AFAAd")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class NSString;
 enum AFABidType : NSInteger;
 @class AFABidResponse;
-@class NSError;
 
 SWIFT_CLASS("_TtC13AdmostFairAds12AFABidLoader")
 @interface AFABidLoader : NSObject
@@ -319,22 +335,6 @@ SWIFT_PROTOCOL("_TtP13AdmostFairAds19AFARewardedDelegate_")
 - (void)rewardedDidComplete:(AFARewarded * _Nonnull)rewarded;
 - (void)rewardedDidDismiss:(AFARewarded * _Nonnull)rewarded;
 - (void)rewardedDidClick:(AFARewarded * _Nonnull)rewarded;
-@end
-
-
-SWIFT_CLASS("_TtC13AdmostFairAds13AdmostFairAds")
-@interface AdmostFairAds : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull sdkVersion;)
-+ (NSString * _Nonnull)sdkVersion SWIFT_WARN_UNUSED_RESULT;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) BOOL isInitialized;)
-+ (BOOL)isInitialized SWIFT_WARN_UNUSED_RESULT;
-+ (void)startWithAppId:(NSString * _Nonnull)appId completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
-+ (void)setUserId:(NSString * _Nonnull)userId;
-+ (void)setUserConsent:(BOOL)userConsent;
-+ (void)setUserChild:(BOOL)isUserChild;
-+ (void)setSubjectToGDPR:(BOOL)subjectToGDPR;
-+ (void)setSubjectToCCPA:(BOOL)subjectToCCPA;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -565,6 +565,24 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class NSString;
+@class NSError;
+
+SWIFT_CLASS("_TtC13AdmostFairAds3AFA")
+@interface AFA : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull sdkVersion;)
++ (NSString * _Nonnull)sdkVersion SWIFT_WARN_UNUSED_RESULT;
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) BOOL isInitialized;)
++ (BOOL)isInitialized SWIFT_WARN_UNUSED_RESULT;
++ (void)startWithAppId:(NSString * _Nonnull)appId completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
++ (void)setUserId:(NSString * _Nonnull)userId;
++ (void)setUserConsent:(BOOL)userConsent;
++ (void)setUserChild:(BOOL)isUserChild;
++ (void)setSubjectToGDPR:(BOOL)subjectToGDPR;
++ (void)setSubjectToCCPA:(BOOL)subjectToCCPA;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 
 SWIFT_CLASS("_TtC13AdmostFairAds5AFAAd")
 @interface AFAAd : NSObject
@@ -574,10 +592,8 @@ SWIFT_CLASS("_TtC13AdmostFairAds5AFAAd")
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
 
-@class NSString;
 enum AFABidType : NSInteger;
 @class AFABidResponse;
-@class NSError;
 
 SWIFT_CLASS("_TtC13AdmostFairAds12AFABidLoader")
 @interface AFABidLoader : NSObject
@@ -669,22 +685,6 @@ SWIFT_PROTOCOL("_TtP13AdmostFairAds19AFARewardedDelegate_")
 - (void)rewardedDidComplete:(AFARewarded * _Nonnull)rewarded;
 - (void)rewardedDidDismiss:(AFARewarded * _Nonnull)rewarded;
 - (void)rewardedDidClick:(AFARewarded * _Nonnull)rewarded;
-@end
-
-
-SWIFT_CLASS("_TtC13AdmostFairAds13AdmostFairAds")
-@interface AdmostFairAds : NSObject
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull sdkVersion;)
-+ (NSString * _Nonnull)sdkVersion SWIFT_WARN_UNUSED_RESULT;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) BOOL isInitialized;)
-+ (BOOL)isInitialized SWIFT_WARN_UNUSED_RESULT;
-+ (void)startWithAppId:(NSString * _Nonnull)appId completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
-+ (void)setUserId:(NSString * _Nonnull)userId;
-+ (void)setUserConsent:(BOOL)userConsent;
-+ (void)setUserChild:(BOOL)isUserChild;
-+ (void)setSubjectToGDPR:(BOOL)subjectToGDPR;
-+ (void)setSubjectToCCPA:(BOOL)subjectToCCPA;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
