@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AdmostFairAds-Swift.h</key>
 		<data>
-		OltfTaamlGHMP1zIMdCvzbqNAw8=
+		gFZ3BYBpcnMUxWkyGfxvzkyzP8Q=
 		</data>
 		<key>Headers/AdmostFairAds.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wSJxLJc+TKoXpJc3tkNC6Mnnm5o=
+		IMqYWwBeML1C/w4W+UBQ3c+lKhU=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+kRAOSwCpH2f1xFN6bE3/N27VwA=
+		2IwhxlHLmLCBy99xQr3w5BTpgfU=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NyeP1CEJCLt8LLzKSkuFVoT8NPE=
+		beho18dAZHZHUmYHeCNPWLzeJjs=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftinterface</key>
 		<data>
-		pzKRuVzORKrOr/gdTzCiet0nDGM=
+		TUgYeouNhIJXsfe8TtiSFnHMLSA=
 		</data>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		sa6UcOjp9vN6Z80xNwv20Fd4qso=
+		0XC7cV+97ZfZ4vAglwQQJ7wSReU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OltfTaamlGHMP1zIMdCvzbqNAw8=
+			gFZ3BYBpcnMUxWkyGfxvzkyzP8Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			JNzgVyq0RIUrgRqAFwTogfKdReCuSVjvovLlEXfjaFE=
+			6nSbRhqDlib2DkRTvEKPjvpBPdXJ7vPQ5tuv6e4gpv8=
 			</data>
 		</dict>
 		<key>Headers/AdmostFairAds.h</key>
@@ -84,22 +84,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+kRAOSwCpH2f1xFN6bE3/N27VwA=
+			2IwhxlHLmLCBy99xQr3w5BTpgfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			d83+IeNCnoiv+eClZzFB2cIzyRqc02qk378RmsRY1Oc=
+			yDaLy1iJ/818LhvKe878i3E3sEAvljG5utaDMdhpKUk=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NyeP1CEJCLt8LLzKSkuFVoT8NPE=
+			beho18dAZHZHUmYHeCNPWLzeJjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			SVUi1gDLf+1TnBWR54R/7aRe6FENGHx5XKz7+OCTHDo=
+			tUqebxHBZJGkIfkDugYUxlJaWE9IrQkjJ8HpX/QZJ00=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -117,22 +117,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pzKRuVzORKrOr/gdTzCiet0nDGM=
+			TUgYeouNhIJXsfe8TtiSFnHMLSA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jTHqLQ+kgau4/FYZeydJyiKP+tCjVI5HbOkgFqbzCeU=
+			z77KBgoLEDd6/fG+BjjWevCSgRJA+lHsZvLmQueBqmk=
 			</data>
 		</dict>
 		<key>Modules/AdmostFairAds.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sa6UcOjp9vN6Z80xNwv20Fd4qso=
+			0XC7cV+97ZfZ4vAglwQQJ7wSReU=
 			</data>
 			<key>hash2</key>
 			<data>
-			osWkq/DJa65UrCFcmTXvpH2F3bLvvAp162WYfxkvR7g=
+			49QCwUFbIV91aYrdugqisnzWaCLvEAmLOJ9pZuiIOsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

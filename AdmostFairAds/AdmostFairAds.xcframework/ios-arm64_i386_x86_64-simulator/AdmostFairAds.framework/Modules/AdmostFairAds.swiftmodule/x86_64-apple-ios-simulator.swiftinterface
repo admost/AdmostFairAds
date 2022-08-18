@@ -56,7 +56,7 @@ extension UIKit.UIDevice {
   @objc override dynamic public init()
   @objc deinit
 }
-@_inheritsConvenienceInitializers @objc final public class AdmostFairAds : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc final public class AFA : ObjectiveC.NSObject {
   @objc public static let sdkVersion: Swift.String
   @objc public static var isInitialized: Swift.Bool {
     @objc get
