@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AdmostFairAds'
-  s.version          = '1.3.0'
+  s.version          = '1.3.1'
   s.summary          = 'Admost Fair Ads mobile advertisement SDK'
 
   s.description      = <<-DESC
